@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1790344262,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-20260925-giulia.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:5003:273661,payload.bin:5003:3869214547,payload_properties.txt:3869219608:156,apex_info.pb:2362:1509,care_map.pb:3918:1038,metadata:69:695,metadata.pb:832:1482",
+        "sha256": "6f797ed176ef584ca07bf453154aabf0e8485374265f114ace90e8ad5cf0152a",
+        "size": 3869222692,
+        "url": "https://archive.org/download/penguin-os-celerity-20260925-giulia/PenguinOS-celerity-20260925-giulia.zip"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "datetime": 1790339530,
+    "files": [
+      {
+        "filename": "PenguinOS-celerity-20260925-giuliac.zip",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:4930:274815,payload.bin:4930:3892514832,payload_properties.txt:3892519820:156,apex_info.pb:2323:1509,care_map.pb:3879:1004,metadata:69:694,metadata.pb:831:1444",
+        "sha256": "c42a3f384ec71d145284293e73162f53e16043934b4de0f41ffe705195f60132",
+        "size": 3892522904,
+        "url": "https://github.com/ronardnx/releases/download/v1.0/PenguinOS-celerity-20260925-giuliac.zip"
+      }
+    ],
+    "type": "stable",
+    "version": "celerity"
+  }
+]
