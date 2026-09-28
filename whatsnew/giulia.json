@@ -1,10 +1,22 @@
 {
-  "title": "",
-  "hello_subtitle": "",
+  "title": "PenguinOS 16 - Celerity",
+  "hello_subtitle": "Release 2026-09-28",
   "highlights": [
     {
-      "title": "",
-      "summary": ""
+      "title": "Debloated System",
+      "summary": "Cleaned up legacy AOSP stubs, Abstruct wallpaper bloat, and redundant background services for improved battery and memory efficiency."
+    },
+    {
+      "title": "OnePlus Camera & Gallery",
+      "summary": "Integrated stock OPlus Camera with 10-bit color, portrait ArcSoft licenses, fixed video recording & motion photo capture, and OnePlus Gallery with Live Photos support."
+    },
+    {
+      "title": "Modern Dual SIM Signal Icons",
+      "summary": "Restyled status bar signal indicators for dual SIM setups into a clean, modern compact layout alongside active Wi-Fi generation badges."
+    },
+    {
+      "title": "Camera Sensor Readiness & Stability",
+      "summary": "Restored hardware sensor-mode readiness synchronization to eliminate capture drops during photo transitions."
     }
   ]
 }

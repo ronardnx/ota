@@ -1,14 +1,15 @@
 [
   {
-    "datetime": 1790344262,
+    "datetime": 1790584122,
     "files": [
       {
-        "filename": "PenguinOS-celerity-20260925-giulia.zip",
+        "filename": "PenguinOS-celerity-20260928-giulia.zip",
+        "os_patch_level": "2026-08-01",
         "os_sdk_level": 37,
-        "ota_property_files": "payload_metadata.bin:5003:273661,payload.bin:5003:3869214547,payload_properties.txt:3869219608:156,apex_info.pb:2362:1509,care_map.pb:3918:1038,metadata:69:695,metadata.pb:832:1482",
-        "sha256": "6f797ed176ef584ca07bf453154aabf0e8485374265f114ace90e8ad5cf0152a",
-        "size": 3869222692,
-        "url": "https://archive.org/download/penguin-os-celerity-20260925-giulia/PenguinOS-celerity-20260925-giulia.zip"
+        "ota_property_files": "payload_metadata.bin:5003:256340,payload.bin:5003:3493313258,payload_properties.txt:3493318319:156,apex_info.pb:2362:1509,care_map.pb:3918:1038,metadata:69:695,metadata.pb:832:1482",
+        "sha256": "05c5a27ba6a7b43cf774dffeb48dd9cd2fc373a06fb00078ea0e703e48a60c45",
+        "size": 3493321443,
+        "url": "https://store8.gofile.io/download/web/3c06f2b5-79e6-404a-9e3c-e345edd1b818/PenguinOS-celerity-20260928-giulia.zip"
       }
     ],
     "type": "stable",
